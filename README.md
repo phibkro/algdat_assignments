@@ -6,3 +6,6 @@ Svar på øvinger i python med tester
   - [X] `insertion_sort`
   - [X] `max_permutations`
   - [X] `nim`
+- Øving 2: Datastrukturer
+  - [X] `queue`
+  - [X] `sort_stacks`
