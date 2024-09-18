@@ -20,3 +20,5 @@ Svar på øvinger i python med tester
 - Øving 5: Trestrukturer
   - [X] `search_tree`
   - [X] `build_tree`
+  - [ ] `string_match`
+  - [ ] `longest_repeated_substring`
