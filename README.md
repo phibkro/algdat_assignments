@@ -13,7 +13,10 @@ Svar på øvinger i python med tester
   - [X] `merge_sort`
   - [ ] `unimodal_sequence`
   - [ ] `largest_cuboid`
-- Øving 4: 
+- Øving 4: Rangering i linær tid
   - [X] `counting_sort`
   - [X] `k_largest`
   - [ ] `lexicographical_sort`
+- Øving 5: Trestrukturer
+  - [X] `search_tree`
+  - [X] `build_tree`
