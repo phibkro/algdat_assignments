@@ -22,3 +22,7 @@ Svar på øvinger i python med tester
   - [X] `build_tree`
   - [ ] `string_match`
   - [ ] `longest_repeated_substring`
+- Øving 6: Dynamisk Programmering
+- Øving 7: Traversering av Grafer
+  - [ ] `compatibility_graph`
+  - [X] `resolve_and_install`
